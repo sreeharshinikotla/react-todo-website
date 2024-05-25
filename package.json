@@ -1,11 +1,11 @@
 {
-  "homepage": "http://sreeharshinikotla.github.io/react-todo-website"
+  "homepage": "http://sreeharshinikotla.github.io/react-todo-website",
   "name": "react-todo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run buid",
+    "predeploy": "npm run build",
     "deploy" : "gh-pages -d build",
 
     "dev": "vite",
